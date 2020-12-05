@@ -16,9 +16,9 @@
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
   },
-  "homepage": "neerajpawar.github.com/NCSTest",
+  "homepage":"https://neerajpawar.github.io/NCSTest",
   "scripts": {
-	"predeploy":"nmp run build",
+	"predeploy":"npm run build",
 	"deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
